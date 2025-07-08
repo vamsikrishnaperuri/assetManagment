@@ -95,3 +95,17 @@ The application uses the following tables:
 3. Commit your changes
 4. Push to the branch
 5. Create a Pull Request
+
+![WhatsApp Image 2025-07-08 at 18 27 07_7b51f985](https://github.com/user-attachments/assets/1ce21618-b67a-4b3d-82d9-e96190737439)
+
+![WhatsApp Image 2025-07-08 at 18 27 31_baa33cf7](https://github.com/user-attachments/assets/ffc948ea-d72d-46f3-b524-c3273ff79745)
+
+![WhatsApp Image 2025-07-08 at 18 29 54_a1ff5271](https://github.com/user-attachments/assets/c9c3f22a-7e7a-4d63-9508-a02ec69bfdc7)
+
+![WhatsApp Image 2025-07-08 at 18 30 12_e80d545b](https://github.com/user-attachments/assets/70a91fb5-ef88-4117-86f8-3ca6c1f1dfff)
+
+![WhatsApp Image 2025-07-08 at 18 31 05_2ab0ac6b](https://github.com/user-attachments/assets/550870e7-8c21-4bb6-8bda-3b60eafcf873)
+
+![WhatsApp Image 2025-07-08 at 18 31 19_f7577f90](https://github.com/user-attachments/assets/afb0cc9f-9e69-4b82-b13f-f1fd1c3bfbc4)
+
+![WhatsApp Image 2025-07-08 at 18 31 44_0450d66f](https://github.com/user-attachments/assets/6c13f829-0a69-42db-ad07-0f352e9ef396)
